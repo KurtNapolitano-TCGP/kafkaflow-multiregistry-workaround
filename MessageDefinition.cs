@@ -1,0 +1,1 @@
+﻿internal record MessageDefinition(string ClusterName, string MessageFullName);
